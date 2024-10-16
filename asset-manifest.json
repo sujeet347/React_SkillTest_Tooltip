@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/React_Tooltip/static/css/main.720e4e66.css",
-    "main.js": "/React_Tooltip/static/js/main.ffc18051.js",
-    "static/js/453.31cd0181.chunk.js": "/React_Tooltip/static/js/453.31cd0181.chunk.js",
-    "static/media/back.jpg": "/React_Tooltip/static/media/back.41fab2ac17ae8226bfae.jpg",
-    "static/media/btn.jpg": "/React_Tooltip/static/media/btn.edd06de8d499aef5b184.jpg",
-    "index.html": "/React_Tooltip/index.html",
-    "main.720e4e66.css.map": "/React_Tooltip/static/css/main.720e4e66.css.map",
-    "main.ffc18051.js.map": "/React_Tooltip/static/js/main.ffc18051.js.map",
-    "453.31cd0181.chunk.js.map": "/React_Tooltip/static/js/453.31cd0181.chunk.js.map"
+    "main.css": "/React_SkillTest_Tooltip/static/css/main.7b952147.css",
+    "main.js": "/React_SkillTest_Tooltip/static/js/main.d943e5ba.js",
+    "static/js/453.31cd0181.chunk.js": "/React_SkillTest_Tooltip/static/js/453.31cd0181.chunk.js",
+    "static/media/back.jpg": "/React_SkillTest_Tooltip/static/media/back.41fab2ac17ae8226bfae.jpg",
+    "static/media/btn.jpg": "/React_SkillTest_Tooltip/static/media/btn.edd06de8d499aef5b184.jpg",
+    "index.html": "/React_SkillTest_Tooltip/index.html",
+    "main.7b952147.css.map": "/React_SkillTest_Tooltip/static/css/main.7b952147.css.map",
+    "main.d943e5ba.js.map": "/React_SkillTest_Tooltip/static/js/main.d943e5ba.js.map",
+    "453.31cd0181.chunk.js.map": "/React_SkillTest_Tooltip/static/js/453.31cd0181.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.720e4e66.css",
-    "static/js/main.ffc18051.js"
+    "static/css/main.7b952147.css",
+    "static/js/main.d943e5ba.js"
   ]
 }
